@@ -1,0 +1,98 @@
+.curri{
+    display: flex;
+    background-image: url('help2.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.books1 {
+    border: 2px solid black;
+    width: 38%;
+    text-align: left;
+    font-size: 19px;
+    font-family: sans-serif;
+    background-color: #931a1a;;
+    color: #fff;
+    margin-left: 1%;
+}
+
+.books1 form{
+	margin-left: 1%;
+	
+}
+.books1 .main{
+	text-align: center;
+}
+ .yash input{
+ 	width: 100px;
+ }
+.yash1 input{
+    width: 550px;
+}
+
+.yash2 input{
+    width: 200px;
+}
+.yash3 input{
+    width: 560px;
+}
+.yash4 input{
+    width: 60px;
+}
+
+.books2{
+    border: 2px solid black;
+    width: 28%;
+    text-align: left;
+    font-size: 19px;
+    font-family: sans-serif;
+    background-color: #931a1a;;
+    color: #fff;
+    margin-left: 2%;
+}
+.Other1{
+    text-align: center;
+}
+
+.books2 form{
+    margin-left: 2%;
+    
+}
+
+.title input{
+    width: 300px;
+}
+
+.title1 input{
+    width: 250px;
+}
+
+.color input{
+  width: 50px;
+}
+.Sui input{
+    width: 350px;
+
+}
+.books3{
+    border: 2px solid black;
+    width: 30%;
+    text-align: left;
+    font-size: 19px;
+    font-family: sans-serif;
+    background-color: #931a1a;;
+    color: #fff;
+    margin-left: 2%;
+}
+.uni{
+    text-align: center;
+}
+
+.books3 form{
+    margin-left: 2%;
+    
+}
+.sho input{
+    width: 70px;
+}
